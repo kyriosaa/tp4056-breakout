@@ -1,0 +1,13 @@
+# KiCad
+*.bak
+*-bak
+*.kicad_sym-bak
+*.lck
+~*.kicad_sym
+_autosave-*
+*-save.kicad_sym
+*.kicad_prl
+
+# OS
+.DS_Store
+Thumbs.db

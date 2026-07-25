@@ -1,0 +1,4 @@
+# KiCad
+*.kicad_sym linguist-language=KiCad-Schematic
+*.kicad_sch linguist-language=KiCad-Schematic
+*.kicad_pcb linguist-language=KiCad-Layout
