@@ -1,4 +1,7 @@
-# KiCad
-*.kicad_sym linguist-language=KiCad-Schematic
-*.kicad_sch linguist-language=KiCad-Schematic
-*.kicad_pcb linguist-language=KiCad-Layout
+*.kicad_sch linguist-detectable
+*.kicad_sym linguist-detectable
+*.kicad_mod linguist-detectable
+*.kicad_wks linguist-detectable
+*.kicad_pro linguist-detectable
+*.fp-lib-table linguist-detectable
+*.sym-lib-table linguist-detectable
